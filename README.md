@@ -24,3 +24,10 @@ _some **mixed** text_
     * one
     * two
 
+[this links to node.js dublin](http://www.nodejsdublin.com/)
+
+ [node.js dublin]: http://www.nodejsdublin.com/
+ 
+###Image link
+ 
+ ![Donkey Kong](https://i.ytimg.com/vi/c9mXr8sIBAg/maxresdefault.jpg)
