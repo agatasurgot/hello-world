@@ -31,3 +31,8 @@ _some **mixed** text_
 ###Image link
  
  ![Donkey Kong](https://i.ytimg.com/vi/c9mXr8sIBAg/maxresdefault.jpg)
+
+Testing my line breaks  
+small break
+
+big break
